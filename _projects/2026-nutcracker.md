@@ -33,6 +33,3 @@ image: /assets/images/nutcracker-design.jpg
 <p>This seems pretty usable at almost 23 cm or 9 inches. We need some way to keep the nut from slipping. But the dimensions are usable.</p>
 
 <p><i>Credit: Do capuchin monkeys use weight to select hammer tools?</i></p>
-
-</body>
-</html>
